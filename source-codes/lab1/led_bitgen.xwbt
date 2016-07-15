@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\codsjtu_design\genesys\lab1\led.ncd
+OUTFILE=E:\codsjtu_design\genesys\lab1\led.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=E:\codsjtu_design\genesys\lab1
+LICENSE=WebPack
+USER_INFO=210863295_0_0_017
