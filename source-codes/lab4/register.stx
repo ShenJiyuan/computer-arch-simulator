@@ -1,0 +1,32 @@
+Release 13.4 - xst O.87xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/codsjtu_design/genesys/lab4/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to E:/codsjtu_design/genesys/lab4/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "register.v" in library work
+ERROR:HDLCompilers:27 - "register.v" line 33 Illegal redeclaration of 'readData1'
+ERROR:HDLCompilers:27 - "register.v" line 34 Illegal redeclaration of 'readData2'
+Module <register> compiled
+Analysis of file <"register.prj"> failed.
+--> 
+
+Total memory usage is 167000 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
