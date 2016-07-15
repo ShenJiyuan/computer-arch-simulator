@@ -1,0 +1,36 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/1/lab5_simulator/test_for_top_isim_beh.exe" -prj "E:/1/lab5_simulator/test_for_top_beh.prj" "work.test_for_top" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/1/lab5_simulator/timeDivider.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/signext.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/register.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/inst_memory.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/data_memory.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/Ctr.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/aluCtr.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/Alu.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/top.v" into library work
+Analyzing Verilog file "E:/1/lab5_simulator/test_for_top.v" into library work
+Analyzing Verilog file "F:/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/1/lab5_simulator/top.v" Line 127: Port clock_in is not connected to this instance
+Completed static elaboration
+Compiling module timeDivider
+Compiling module Ctr
+Compiling module Alu
+Compiling module aluCtr
+Compiling module data_memory
+Compiling module register
+Compiling module signext
+Compiling module inst_memory
+Compiling module top
+Compiling module test_for_top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 11 Verilog Units
+Built simulation executable E:/1/lab5_simulator/test_for_top_isim_beh.exe
+Fuse Memory Usage: 28376 KB
+Fuse CPU Usage: 608 ms
