@@ -1,0 +1,21 @@
+Running: F:\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o F:/ComOrga_design/genesys/lab3/test_for_Alu_isim_beh.exe -prj F:/ComOrga_design/genesys/lab3/test_for_Alu_beh.prj work.test_for_Alu work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "F:/ComOrga_design/genesys/lab3/Alu.v" into library work
+WARNING:HDLCompiler:751 - "F:/ComOrga_design/genesys/lab3/Alu.v" Line 29: Redeclaration of ansi port zero is not allowed
+WARNING:HDLCompiler:751 - "F:/ComOrga_design/genesys/lab3/Alu.v" Line 30: Redeclaration of ansi port aluRes is not allowed
+Analyzing Verilog file "F:/ComOrga_design/genesys/lab3/test_for_Alu.v" into library work
+Analyzing Verilog file "F:/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Alu
+Compiling module test_for_Alu
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable F:/ComOrga_design/genesys/lab3/test_for_Alu_isim_beh.exe
+Fuse Memory Usage: 27852 KB
+Fuse CPU Usage: 483 ms

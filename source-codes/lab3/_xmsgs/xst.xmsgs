@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 34 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">regDst</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 35 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">aluSrc</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 36 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">memToReg</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 37 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">regWrite</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 38 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">memRead</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 39 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">memWrite</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 40 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">branch</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 41 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">aluOp</arg>&apos;
+</msg>
+
+<msg type="error" file="HDLCompilers" num="27" delta="new" ><arg fmt="%s" index="1">&quot;Ctr.v&quot; line 42 </arg>Illegal redeclaration of &apos;<arg fmt="%s" index="2">jump</arg>&apos;
+</msg>
+
+</messages>
+
